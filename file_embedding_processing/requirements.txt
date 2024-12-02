@@ -1,0 +1,16 @@
+boto3
+pandas
+qdrant-client
+langchain
+langchain-community
+langchain-qdrant
+openai
+requests
+PyPDF2
+python-docx
+python-pptx
+openpyxl  
+tiktoken
+langchain-openai
+
+langchain_openai
